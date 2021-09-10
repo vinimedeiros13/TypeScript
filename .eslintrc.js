@@ -21,5 +21,9 @@ module.exports = {
     '@typescript-eslint',
   ],
   rules: {
+    'no-unused-vars': 'off',
+    'prefer-const': 'off',
+    'no-console': 'off',
+    'arrow-body-style': 'off',
   },
 };
