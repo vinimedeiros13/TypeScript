@@ -25,5 +25,9 @@ module.exports = {
     'prefer-const': 'off',
     'no-console': 'off',
     'arrow-body-style': 'off',
+    'lines-between-class-members': 'off',
+    'max-classes-per-file': 'off',
+    'no-empty-function': 'off',
+    'no-useless-constructor': 'off',
   },
 };
